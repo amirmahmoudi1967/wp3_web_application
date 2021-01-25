@@ -1,0 +1,32 @@
+.header {
+    font-family: Helvetica, Arial, Sans-Serif;
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+ 
+  }
+  .body
+  {font-family: Helvetica, Arial, Sans-Serif;
+      color: rgb(0, 0, 0);
+    background-color: #fff0f5;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+
+    width: 400px;
+    margin: 20px auto; /* Vertical  Horizontal */
+    border: 10px solid #f170b1;
+
+  }
+  .link{
+      text-align:center
+  }
+  .body h2{
+    font-size: 18px;
+    text-align: left;
+  }
+  .body ul{
+      text-align: left;
+  }
+
+  .body em{
+      background-color: yellow;
+  }
