@@ -23,6 +23,11 @@
     font-size: 18px;
     text-align: left;
   }
+
+.highlight{
+    display: inline;
+    background-color: yellow;
+}
   .body ul{
       text-align: left;
   }
